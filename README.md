@@ -1,8 +1,5 @@
 # JavaScript Handbook
 
-[**Download this README**](https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/README.md)  
-*(Right-click the link and select “Save Link As…” to download a copy.)*
-
 Welcome to the **JavaScript Handbook** repository! This project is designed to be your **one-stop resource** for learning, mastering, and staying up to date with JavaScript. Whether you’re a beginner just dipping your toes into JavaScript or an experienced developer looking to brush up on advanced topics, you’ll find something valuable here.
 
 ## Table of Contents
