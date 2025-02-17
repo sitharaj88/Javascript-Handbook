@@ -67,31 +67,31 @@ javascript-handbook/
 
 Each section within `docs/` is structured to help you build your JavaScript knowledge step by step:
 
-1. **[1-basics](docs/1-basics/)**  
+1. **[basics](docs/1-basics/)**  
    Covers fundamental concepts like syntax, data types, and functions. Perfect for beginners.
 
-2. **[2-advanced-concepts](docs/2-advanced-concepts/)**  
+2. **[advanced-concepts](docs/2-advanced-concepts/)**  
    Deep dive into closures, prototypes, the event loop, memory management, and more.
 
-3. **[3-modern-javascript](docs/3-modern-javascript/)**  
+3. **[modern-javascript](docs/3-modern-javascript/)**  
    Focuses on ES6+ features such as async/await, destructuring, and modules.
 
-4. **[4-dom-and-browser-apis](docs/4-dom-and-browser-apis/)**  
+4. **[dom-and-browser-apis](docs/4-dom-and-browser-apis/)**  
    Teaches how to manipulate the DOM, handle events, and leverage browser storage APIs.
 
-5. **[5-performance-optimization](docs/5-performance-optimization/)**  
+5. **[performance-optimization](docs/5-performance-optimization/)**  
    Learn techniques to improve JavaScript performance, from reducing reflows to using Web Workers.
 
-6. **[6-security](docs/6-security/)**  
+6. **[security](docs/6-security/)**  
    Covers JavaScript security concerns, including XSS, CSRF, and best practices for secure coding.
 
-7. **[7-tooling-ecosystem](docs/7-tooling-ecosystem/)**  
+7. **[tooling-ecosystem](docs/7-tooling-ecosystem/)**  
    Understand JavaScript tooling, including bundlers (Webpack, Rollup), testing, and debugging techniques.
 
-8. **[8-server-side](docs/8-server-side/)**  
+8. **[server-side](docs/8-server-side/)**  
    Explore backend JavaScript development with Node.js, serverless computing, and API design.
 
-9. **[9-future-javascript](docs/9-future-javascript/)**  
+9. **[future-javascript](docs/9-future-javascript/)**  
    Stay ahead with upcoming JavaScript features and experimental proposals.
 
 ---
