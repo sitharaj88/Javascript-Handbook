@@ -5,7 +5,6 @@ Welcome to the **JavaScript Handbook** repository! This project is designed to b
 ## Table of Contents
 
 - [JavaScript Handbook](#javascript-handbook)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Repository Structure](#repository-structure)
   - [Docs Overview](#docs-overview)
